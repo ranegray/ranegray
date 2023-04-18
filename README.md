@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rane</h1>
 <h3 align="center">Frontend Developer | React | HTML & CSS | Javascript | Transitioning from the U.S. Air Force</h3>
 
-- 🔭 I’m currently working on [a rewrite of a rental property analysis tool in react 18 and next 13 with RSC.](https://github.com/ranegray/real-estate-analyzer)
+- 🔭 I’m currently working on [a rewrite of a rental property analysis tool in react and next.](https://github.com/ranegray/real-estate-analyzer)
 
 - 🌱 I’m currently learning **Next.js, React Server Components, and always working toward mastery of JS fundamentals.**
 
