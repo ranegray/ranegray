@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [a React/Leaflet project aimed at fostering a safer and more informed community of pet owners and animal lovers.](https://github.com/TeamPetPoison/pet-poison-alert)
 
-- 📫 How to reach me **ranegray830@gmail.com**
+- 📫 How to reach me **hi@ranegray.dev**
 
 - ⚡ Fun fact **Currently training for a half marathon in Luxembourg (first half 2023) and a marathon in Washington state (second half 2023).**
 
