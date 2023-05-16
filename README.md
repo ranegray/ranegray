@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a rewrite of a rental property analysis tool in react and next.](https://github.com/ranegray/real-estate-analyzer)
 
-- 🌱 I’m currently learning **Next.js, React Server Components, and always working toward mastery of JS fundamentals.**
+- 🌱 I’m currently learning **Next.js App router and React Server Components.**
 
 - 👯 I’m looking to collaborate on **education technology projects.**
 
