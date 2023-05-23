@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hi@ranegray.dev**
 
-- ⚡ Fun fact **Currently training for a half marathon in Luxembourg (first half 2023) and a marathon in Washington state (second half 2023).**
+- ⚡ Fun fact **Currently training for my first full length marathon in Washington.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
