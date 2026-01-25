@@ -1,1 +1,1 @@
-👋 I'm Rane Gray — CS student building open-source tools for robots.
+i'm rane gray. i build robots. 
